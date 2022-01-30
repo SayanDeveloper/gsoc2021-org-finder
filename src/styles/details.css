@@ -1,0 +1,13 @@
+h2 {
+    font-size: 30px;
+    color: white;
+}
+.org-detail-img {
+    width: 200px;
+    height: 130px;
+    padding: 10px;
+    object-fit: contain;
+}
+.org-detail-img.white {
+    background-color: white;
+}

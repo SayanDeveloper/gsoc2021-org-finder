@@ -27,7 +27,7 @@ function Result() {
     }, [query]);
 
     return (
-    <div className='container'>
+    <div className='container flex-horizontal-center'>
         <div className='searchbox'>
             <input 
                 type="text" 
