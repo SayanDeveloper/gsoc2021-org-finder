@@ -11,3 +11,9 @@ h2 {
 .org-detail-img.white {
     background-color: white;
 }
+.tech-details .each-tech {
+    background-image: linear-gradient(to right, #8e2de2, #4a00e0);
+    color: white;
+    padding: 10px;
+    margin-right: 57px;
+}
